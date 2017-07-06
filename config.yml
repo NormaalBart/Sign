@@ -1,0 +1,23 @@
+Messages:
+  ##When an user don't has the right permissions...
+  noPerm: "&3» &cYou don't have the right permission to create a sell sign!"
+  ##When there is an incorrect format
+  formatException:
+    - "&cThe format isn't right please use"
+    - "&e[SSell]"
+    - "&eAll"
+    - "&e(Material)"
+    - "&e(Price)"
+  ##When the sign is succesfully created
+  Succesfull: "&3» &7The sign is succesfully created!"
+  ##When a sign isn't properly configured when a player is clicking on it
+  ClickException: "&3» &cThe sign isn't properly configured!"
+  ##When you succesfully sold your items
+  SoldItems: "&3» &7You succesfully sold &a{AMOUNT} &7items for &a{MONEY}&7!"
+  ##When you don't have the right item to sell
+  noItem: "&3» &cYou don't have the right item!"
+Sign:
+  ##By how much does my plugin have to multiply when there is a booster?
+  Multiply: 2.5
+  ##The first line
+  Prefix: "&7[&aSell&7]"

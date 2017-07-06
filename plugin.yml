@@ -1,0 +1,5 @@
+name: SellSign
+version: 0.0.1
+author: Bart // BrutalNetwork
+main: me.BrutalNetwork.Sign.Utils.Main
+depend: [Vault, Booster]
